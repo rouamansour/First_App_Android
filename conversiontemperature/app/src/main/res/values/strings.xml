@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">conversiontemperature</string>
+    <string name="dc">°C</string>
+    <string name="df">°F</string>
+    <string name="dc_df">°C->°F</string>
+    <string name="df_ds">°F->°C</string>
+</resources>
